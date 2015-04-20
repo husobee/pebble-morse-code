@@ -1,0 +1,17 @@
+{
+  "uuid": "084f94c0-2258-4850-b91e-8c82491275f3",
+  "shortName": "morse-code",
+  "longName": "Morse Code With Vibrator",
+  "companyName": "husobee",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
